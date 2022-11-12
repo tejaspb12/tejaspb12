@@ -1,6 +1,5 @@
 ### Hi there 👋
- - 💬 Ask me about - 
- - 🔭 I’m currently studying @ Christ University🎓
+ - 🔭 I’m currently studying at Christ University🎓
  - 🌱 I’m currently learning Python
  - 📫 How to reach me: 6361574997
 
